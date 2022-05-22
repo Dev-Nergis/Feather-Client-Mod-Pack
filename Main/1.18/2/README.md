@@ -15,7 +15,7 @@
 - [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves)
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric)
 - [Better Beds](https://modrinth.com/mod/better-beds)
-- [Alternate Currents](https://modrinth.com/mod/alternate-currents)
+- [Alternate Current](https://modrinth.com/mod/alternate-current)
 - [ServerCore](https://modrinth.com/mod/servercore)
 - [Very Many Players](https://modrinth.com/mod/vmp-fabric)
 - [ForgetMeChunk](https://modrinth.com/mod/forgetmechunk)
