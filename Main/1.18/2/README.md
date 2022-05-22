@@ -2,7 +2,7 @@
 
 ## Use Mods
 
-- (Sodium)[https://modrinth.com/mod/sodium]
+ (Sodium)[https://modrinth.com/mod/sodium]
 - (Lithium)[https://modrinth.com/mod/lithium]
 - (Iris)[https://modrinth.com/mod/iris]
 - (LazyDFU)[https://modrinth.com/mod/lazydfu]
