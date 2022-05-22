@@ -21,3 +21,9 @@
 - [ForgetMeChunk](https://modrinth.com/mod/forgetmechunk)
 - [Bedrodium](https://modrinth.com/mod/bedrodium)
 - []
+
+## How To Install
+
+Win+R
+'%appdata%\.feather\user-mods\1.18.2-fabric'
+un7z
